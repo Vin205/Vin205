@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Vinisha Dsouza<br>Student at K.K.W.I.E.R |BTech in Computer Engineering<br>🌱 I’m currently learning Frontend Web development and Web designing<br><br>💬 Ask me about C,C++,HTML,CSS,Bootstrap<br><br>📫 How to reach me vinishadsouza201@gmail.com<br><br>⚡ I am passionate in web develolopment and in UI/UX designing
+Hi 👋, I'm Vinisha Dsouza<br>Student at K.K.W.I.E.R |BTech in Computer Engineering<br>🌱 I’m currently learning Frontend Web development and Web designing<br><br>💬 Ask me about C,C++,HTML,CSS,Bootstrap,JavaScript,React.js<br><br>📫 How to reach me vinishadsouza201@gmail.com<br><br>⚡ I am passionate in web develolopment and in UI/UX designing
 
 
 ## 🌐 Socials:
